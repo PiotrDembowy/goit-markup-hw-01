@@ -3,6 +3,7 @@ Zadanie domowe nr 1
 link https://piotrdembowy.github.io/goit-markup-hw-01/
 
 Projekt
+
 «A1» Główny plik HTML ma nazwę index.html.
 
 «A2» W katalogu głównym projektu znajduje się folder images z obrazami.
