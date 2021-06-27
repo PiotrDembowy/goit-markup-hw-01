@@ -36,7 +36,7 @@ Znaczniki HTML
 
 «B8» Kontakty w <header> (poczta i telefon) znajdują się poza tagiem <nav>.
 
-«B9» Tag "<h1>" został użyty jeden raz na stronie
+«B9» Tag <h1 > został użyty jeden raz na stronie
 
 «B10» Element z tekstem "Zamów usługę" - to przycisk z type="button".
 
