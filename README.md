@@ -19,6 +19,7 @@ Projekt
 «A7» Kod jest napisany zgodnie z tutorialem.
 
 Znaczniki HTML
+
 «B1» Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 
 «B2» Wykonane są znaczniki HTML wszystkich elementów układu.
